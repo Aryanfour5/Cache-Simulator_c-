@@ -93,5 +93,5 @@ Feel free to fork the repository and submit pull requests to add new cache polic
 This project is licensed under the MIT License.
 
 🔥 Author
-💡 [Your Name]
-👨‍💻 Contact: [Your Email or GitHub Profile]
+💡 Aryan Bachute  
+👨‍💻 Contact:bachutearyan@gmail.com
